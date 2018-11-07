@@ -1,3 +1,9 @@
+---
+title:  How to Make Beer"
+date:   2018-11-06 22:57:04 -0800
+categories: brewing
+---
+
 # How to Make Beer
 
 A Brief Overview of the Brewing Process
