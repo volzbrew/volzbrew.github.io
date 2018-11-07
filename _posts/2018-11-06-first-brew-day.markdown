@@ -6,14 +6,14 @@ categories: brewing
 
 # First Brew Day
 
-Teaser: Step-by-step guide: How to Brew Beer 
+Step-by-step guide: [How to Brew Beer](/blog/2018/11/06/how-to-make-beer)
 
 ## Brewing with Malt Extract
 Below you’ll find the exact steps we take to brew delicious beer using malt extract.
 
 Before you begin make sure you have the right equipment and ingredients:
-[Brewing Equipment](#) - What we have, use, and recommend
-[Brewing Ingredients](#) - Can’t make beer without these
+* [Brewing Equipment](#) - What we have, use, and recommend
+* [Brewing Ingredients](#) - Can’t make beer without these
 
 Brewing is FUN, easy, and your very first batch of beer can turn out great!!!
 Just follow the steps below.
