@@ -1,5 +1,5 @@
 ---
-title:  How to Make Beer"
+title:  How to Make Beer
 date:   2018-11-06 22:57:04 -0800
 categories: brewing
 ---
