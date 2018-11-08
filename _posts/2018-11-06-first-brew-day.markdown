@@ -18,7 +18,7 @@ Before you begin make sure you have the right equipment and ingredients:
 Brewing is FUN, easy, and your very first batch of beer can turn out great!!!
 Just follow the steps below.
 
-Volz Brew Tip: “The brewing process is quite forgiving, as long as you are diligent with sanitization.” -Uncle Steve
+> “The brewing process is quite forgiving, as long as you are diligent with sanitization.” -Uncle Steve
 
 Step-by-Step: Extract Brewing
 

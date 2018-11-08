@@ -12,7 +12,7 @@ Here’s what you need to know brew beer: **Homebrewing is NOT hard.**
 
 Only four ingredients are needed to make beer:  **water, grain, hops, and yeast.**
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](/images/how-to-brew-1.jpg "Logo Title Text 1")
 
 Brewers combine these ingredients in countless ways to brew their favorite beers and create their own recipes. 
 
@@ -22,9 +22,6 @@ There are 5 main steps in the brewing process:
 3. Pitching Yeast
 4. Fermentation
 5. Carbonation
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 
 *Volz Brew Tip: Having the right brewing equipment makes homebrewing easier and much more enjoyable. Good, durable equipment doesn’t cost a fortune! Check out what we use: [Brewing Equipment](#)*
 
@@ -38,7 +35,7 @@ Homebrewers typically make wort in one of two ways: combining **malt** extract w
 * ***All Grain Brewing:*** Add crushed (milled), malted grains to water, heated to ~155 degrees and left to , to activate enzymes in the grain which help convert the starch in the grain into simple sugars for the yeast to eat.
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]((/images/how-to-brew-2.jpg "Wort Boiling")
 
 ## Step 2: The Boil
 The heat is increased to bring the wort to a nice, rolling boil. This step sanitizes the wort and initiates the hop-additions phase in brewing. 
@@ -60,7 +57,7 @@ Rapidly cooling the wort also has many other benefits such as aiding with beer c
 
 Wort chillers are extremely effective for rapidly cooling the wort under 80°F. Once cooled, the wort is then splashed into a fermentation bucket or glass carboy and mixed with the yeast. Splashing the wort helps re-oxygenate the liquid, as boiling removes oxygen, and the yeast will utilize this oxygen while converting wort into **BEER!**
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]((/images/how-to-brew-3.jpg "Golden Shower")
 
 Transferring wort to fermentation bucket (not a golden shower)
 
@@ -84,6 +81,6 @@ Honestly, we haven’t bottled our beer. We started out with ‘Corny’ kegs an
 
 *If you don’t have a keg you basically clean 50+ bottles (can’t use the dishwasher), add sugar to your beer (more food for yeast to create carbonation), then bottle and cap the beer and wait another 2 weeks.*
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]((/images/how-to-brew-4.jpg "Beer")
 
 If you want to brew your own beer check out our detailed, step-by-step guide: First Brew Day
