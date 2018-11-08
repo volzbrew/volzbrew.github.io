@@ -50,3 +50,8 @@ Hops are used for their bittering, flavoring, and aromatic qualities. Brewers ad
 * *Finishing Hops* - boiled for **5 minutes** or less, or added after the boil, primarily for adding aroma
 
 Note: Hop additions, both the amounts and the times they’re added, may vary widely depending on the recipe and beer style. For example a bitter IPA will typically have a relatively high amount of hops added at each stage during the boil with even more added later in the process (see Dry Hopping).
+
+
+How to Brew Beer
+1. [**How to Brew Beer**](/blog/2018/11/06/how-to-make-beer)
+2. [How to Brew Beer 2](/blog/2018/11/06/how-to-make-beer-2)

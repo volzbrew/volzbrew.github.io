@@ -43,3 +43,8 @@ Honestly, we haven’t bottled our beer. We started out with ‘Corny’ kegs an
 ![Beer](/images/how-to-brew-4.jpg)
 
 If you want to brew your own beer check out our detailed, step-by-step guide: First Brew Day
+
+
+How to Brew Beer
+1. [How to Brew Beer](/blog/2018/11/06/how-to-make-beer)
+2. [**How to Brew Beer 2**](/blog/2018/11/06/how-to-make-beer-2)
